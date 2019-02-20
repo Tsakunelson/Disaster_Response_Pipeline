@@ -9,7 +9,7 @@ Disaster Response pipeline project
 ## Project Motivation
 
 Model, Build and Deploy a framework to enhance accurate reponse from target organizations, given streams of messages 
-by civilians in natural dister sites. This project has 2 main objectives:
+by civilians in natural disaster sites. This project has 2 main objectives:
 
 - Identify and structure incoming messages from natural disaster victims.
 - Automatically Classify the messages into categories to enhance accurate response in real time. 
