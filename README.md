@@ -11,10 +11,9 @@ Disaster Response pipeline project
 Model, Build and Deploy a framework to enhance accurate reponse from target organizations, given streams of messages 
 by civilians in natural dister sites. This project has 2 main objectives:
 
-- I dentify and structure incoming messages from natural disaster victims.
-- Automatically Classify the messages into categories to enhance and accurate response in real time. 
--
--
+- Identify and structure incoming messages from natural disaster victims.
+- Automatically Classify the messages into categories to enhance accurate response in real time. 
+- Formulate a mechanism which allows the classified message to be forwarded to a specific response team(police, fire squad, ambulance etc.)
 
 ## File Descriptions 
 This repository consists of three main folders:
