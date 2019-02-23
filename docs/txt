@@ -36,5 +36,4 @@
      
 [1] Tweet: event (fire, tornado, earthquake) + location (longitude, latitude)
 [2] depending on the location (a set radius), the program tries to find help response according to the event
-[3] the nearest department to the event is contacted #the contact part requires more detail. the implementation part
-    is not clear
+[3] the nearest department to the event is contacted #the contact part requires more detail. 
