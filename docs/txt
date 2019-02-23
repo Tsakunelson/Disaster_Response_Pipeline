@@ -1,5 +1,6 @@
 ##Triggered- Based Response
      event  |  location  | response
+     fire   | (long, lat) | fire department
      
 [1] Tweet: event (fire, tornado, earthquake) + location (longitude, latitude)
 [2] depending on the location (a set radius), the program tries to find help response according to the event
