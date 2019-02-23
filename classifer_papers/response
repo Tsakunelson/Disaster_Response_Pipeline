@@ -2,12 +2,12 @@
      event       |  location   | response
      fire        | (long, lat) | fire department
      aid_related |             | hospital
-     medical_help
-     medical_products
-     search and rescue
-     security
-     military
-     child_alone
+     medical_help--------------hospital
+     medical_products----------hospital
+     search and rescue---------police
+     security------------------police
+     military------------------military
+     child_alone---------------police
      water
      food
      shelter
