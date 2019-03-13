@@ -74,6 +74,12 @@ def main():
         print('Loading data...\n    MESSAGES: {}\n    CATEGORIES: {}'
               .format(messages_filepath, categories_filepath))
         df = load_data(messages_filepath, categories_filepath)
+B
+
+C
+C
+C
+C
 
         print('Cleaning data...')
         df = clean_data(df)
