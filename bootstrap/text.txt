@@ -1,1 +1,7 @@
-Goodbye!!
+*********************************************************
+1. the layout of the website
+2. display the classifier prediction
+3. respose procedure is to be deduced
+4. overall functionality
+5. is it helpful? feedback/ comment framework
+*************************************************************
